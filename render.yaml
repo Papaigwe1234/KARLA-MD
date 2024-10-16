@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: IZUMI-V3
+    name: KARLA-MD
     env: node
     branch: main
-    repo: https://github.com/sataniceypz/Izumi-v3.git
+    repo: https://github.com/papaigwe1234/KARLA-MD.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
