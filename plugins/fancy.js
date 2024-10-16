@@ -38,7 +38,7 @@ izumi(
 );
 
 function listAllFancyTexts(text) {
-  let message = "Fancy text generator\n\nReply to a message\nExample: .fancy 32\n\n";
+  let message = "Fancy text generator\n\nReply to a message\nExample: .fancy 32\n\nKARLA-MD";
   listall(text).forEach((txt, index) => {
     message += `${index + 1} ${txt}\n`;
   });
