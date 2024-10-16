@@ -65,7 +65,7 @@ izumi({
                         retailerId: "Eypz",
                         productImageCount: 1
                     },
-                    businessOwnerJid: "917994489493@s.whatsapp.net"
+                    businessOwnerJid: "24160338758@s.whatsapp.net"
                 }
             }
         };
@@ -77,7 +77,7 @@ izumi({
                 externalAdReply: {
                     title: config.BOT_NAME,
                     body: config.OWNER_NAME,
-                    sourceUrl: "https://github.com/sataniceypz/Izumi-v3",
+                    sourceUrl: "https://github.com/papaigwe1234/KARLA-MD",
                     mediaUrl: "https://instagram.com",
                     mediaType: 1,
                     showAdAttribution: true,
